@@ -85,7 +85,7 @@ a:visited:active {
   color: #262629;
 }
 #header nav a:hover {
-  background-color: #f1f1f2;
+  background-color: #fa8f8f;
 }
 #header nav a.active {
   border-bottom: 3px solid #ed5151;
