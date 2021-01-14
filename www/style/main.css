@@ -160,6 +160,8 @@ a:visited:active {
 #sidebar a,
 .pre-quiz a,
 .python a,
+.department-resouces a,
+.project deadline table a,
 #course-documents a {
   color: #ed5151;
 }
@@ -174,10 +176,16 @@ a:visited:active {
 #course-documents a:active,
 .pre-quiz a:hover,
 .python a:hover,
+.department-resources a:hover,
+.project deadline table a:hover,
 .pre-quiz a:focus,
 .python a:focus,
+.department-resources a:focus,
+.project deadline table a:hover,
 .pre-quiz a:active,
-.python a:active {
+.python a:active
+.department-resources a:active,
+.project deadline table a:active,{
   color: black;
 }
 
